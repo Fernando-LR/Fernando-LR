@@ -1,5 +1,4 @@
-### Opa, bão??
-## Eu sou o Fernando.
+## Opa, bão? Eu sou o Fernando.
 
 Atualmente cursando Engenharia De Computação no CEFET-MG.
 
